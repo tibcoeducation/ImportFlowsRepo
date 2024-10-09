@@ -1,8 +1,10 @@
 site_name: 'TestForDevHUBImportFlow'
 site_description: 'test of techdocs'
-
 nav:
-  - Introduction: index.md
-
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Architecture: architecture.md
+  - Troubleshooting: troubleshooting.md
+docs_dir: docs
 plugins:
   - techdocs-core
