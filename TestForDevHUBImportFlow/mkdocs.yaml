@@ -1,1 +1,8 @@
+site_name: 'TestForDevHUBImportFlow'
+site_description: 'test of techdocs'
 
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
